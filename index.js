@@ -1,7 +1,7 @@
-const LinkedList = require("./linkedList");
-const Queue = require("./queue");
-const Stack = require("./stack");
-const Tree = require("./tree");
+const LinkedList = require("./src/linkedList");
+const Queue = require("./src/queue");
+const Stack = require("./src/stack");
+const Tree = require("./src/tree");
 
 module.exports = {
   LinkedList,

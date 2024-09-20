@@ -1,0 +1,19 @@
+{
+  "name": "data-structures-package",
+  "version": "1.0.0",
+  "description": "A data structures package including Stack, Queue, Linked List, and Tree",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data-structures",
+    "stack",
+    "queue",
+    "linked-list",
+    "tree"
+  ],
+  "author": "AYYOUB HADJ YOUCEF",
+  "license": "MIT"
+}

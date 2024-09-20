@@ -2,9 +2,9 @@
   "name": "data-structures-package",
   "version": "1.0.1",
   "description": "A data structures package including Stack, Queue, Linked List, and Tree",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

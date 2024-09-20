@@ -15,5 +15,10 @@
     "tree"
   ],
   "author": "AYYOUB HADJ YOUCEF",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ay-ub/data-structures-package.git"
+  },
+  "homepage": "https://github.com/ay-ub/data-structures-package#readme",
 }

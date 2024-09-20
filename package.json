@@ -1,6 +1,6 @@
 {
   "name": "data-structures-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A data structures package including Stack, Queue, Linked List, and Tree",
   "main": "index.js",
   "scripts": {
